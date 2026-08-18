@@ -1,0 +1,44 @@
+# Anti-slop writing rules (Cursor)
+# Paste into .cursorrules. Makes AI-assisted writing read less machine-made.
+# These remove known tells (the floor); they do not supply a voice.
+
+First, ask of any draft: does it say something specific, or just have the shape of insight?
+If a reader couldn't act on it, or the topic could be swapped and the text still work, rewrite it.
+
+BANNED PHRASES (zero tolerance — delete or rewrite on sight):
+- Filler openers: "it's worth noting that", "it's important to note", "in today's landscape",
+  "as we all know", "in essence", "at its core", "when it comes to".
+- Abstract framing: "the realm of", "navigate the complexities of", "a testament to",
+  "plays a pivotal role", "underscores".
+- Generic enthusiasm: "game-changer", "revolutionary", "cutting-edge", "unlock", "supercharge",
+  "seamless", "robust", "powerful" (as filler).
+- Formal transitions: "furthermore", "moreover", "additionally", "that being said".
+- Magic adverbs (cut unless they carry information): "quietly", "simply", "truly", "genuinely",
+  "effectively", "significantly", "seamlessly".
+- Avoidance verbs: "serves as", "acts as", "functions as" (usually a dodge for "is").
+- Vague attributions: "studies show", "experts say", "research suggests" (name it or cut it).
+
+STRUCTURE & CADENCE:
+- Shared dramatic-pause budget: em-dashes + colon-sentences + dramatic fragments draw from ONE
+  pool. ~1 dramatic pause per 150 words, max. Do not count only em-dashes.
+- No aphoristic/staccato closers as a habit ("X. Not Y." / "A person does."). Max one per piece.
+  Read each section's last sentence alone; flatten the mic-drops.
+- No tricolon abuse. Vary sentence length. No summary paragraph that only restates.
+
+VOICE:
+- No guru language ("the secret to", "here's the thing", "let that sink in").
+- No hustle/consulting-speak ("leverage", "synergy", "move the needle", "at the end of the day").
+- No passive authority (sweeping claims with no citation or stated cost).
+- No invented Capitalized Frameworks for ordinary ideas.
+
+CONTENT SINS:
+- No fabricated precision (no "73% of teams" without a real source). No stat recycling.
+- No signposted conclusions ("in conclusion", "the bottom line is").
+- No one-point dilution (padding one idea to length). Retire a metaphor after 1-2 uses.
+
+OUTBOUND / CONVERSION (if writing sales copy):
+- No empty personalization; lead with the reader's problem, not "about us".
+- Benefits over feature lists; one clear ask; specific over generic; benefit-led CTAs.
+
+HONEST LIMIT: these get you to clean, not to good. After it's clean, add the concrete lived
+specifics and write toward a real voice — no rule can supply those.
