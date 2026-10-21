@@ -52,4 +52,4 @@ These tools are honest about their reach. The rules and `deslop` remove the tell
 
 Code, meaning the `rules/` files and the `skills/`, is MIT. Content, meaning the `guide/` and `examples/`, is CC BY 4.0.
 
-Built by Victor Sowers, who writes about the craft at [STEEPWORKS](https://steepworks.io). Released under the licenses in LICENSE.
+Built by Victor Sowers, who writes about the craft at [STEEPWORKS](https://steepworks.io). Released under the licenses in LICENSE (code, MIT) and LICENSE-CONTENT (content, CC BY 4.0).
